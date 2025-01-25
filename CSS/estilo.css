@@ -1,0 +1,42 @@
+marquee {
+    font-size: 1.5em;
+    color: #fff;
+    background-color: #000;
+    padding: 10px;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    box-shadow: 0 0 10px #000;
+    text-align: center;
+    animation: marquee 10s linear infinite;
+}
+.cabecalho {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+    text-align: left;
+
+}
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    text-align: center;
+    
+}
+.corpo {
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    margin: 0;
+    text-align: left;
+}
+.rodape {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
